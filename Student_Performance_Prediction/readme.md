@@ -1,4 +1,4 @@
-# Project 01: Beginner Machine Learning for Data Analytics 🍋
+# Project 01: Beginner Machine Learning for Data Analytics 
 
 ## Overview
 This is the **first project** in the *MachineLearning_for_DataAnalytics* repository.  
